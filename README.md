@@ -26,6 +26,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://https://x.com/davinchi_73
-[instagram]: https://https://www.instagram.com/davinchi.73
+[twitter]: https://x.com/davinchi_73
+[instagram]: https://www.instagram.com/davinchi.73
 [linkedin]: https://www.linkedin.com/in/devinn-chi
