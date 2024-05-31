@@ -10,6 +10,16 @@
   - [Binary Tree Autobalancing GUI](https://github.com/davinchi73/comp128_finalProject)
   - [Djikstra's vs Kruskal's Algorithms GUI](https://github.com/davinchi73/comp221FinalProject)
 
+<h2> 📺 Certifications:</h2>
+
+- <b> Google IT Support Specialization </b>
+  - [System Administration and IT InfrastructureServices](https://www.coursera.org/account/accomplishments/certificate/X29JDP5EBF3Z)
+  - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/YPYPZEA5VFCA)
+  - [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/certificate/QNCBUJVGA9GB)
+  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/3B7NJAACYV9Z)
+  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/2GWAYY7TE7JH)
+  - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/8G2AJ6X2LQJM)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
