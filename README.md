@@ -3,7 +3,7 @@
 <h2>👨‍💻 Research Software Development Projects:</h2>
 
 - <b>NSF-REU @ UMN</b>
- - [NaloxSAVER](https://github.com/davinchi73/NaloxSAVER)
+  - [NaloxSAVER](https://github.com/davinchi73/NaloxSAVER)
 
 <h2>👨‍💻 Macalester College Software Development Projects:</h2>
 
