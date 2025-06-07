@@ -5,7 +5,7 @@
 - <b>NSF-REU @ UMN</b>
   - [NaloxSAVER](https://github.com/davinchi73/NaloxSAVER)
 
-<h2>👨‍💻 Macalester College Software Development Projects:</h2>
+<h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Artifical Intelligence</b>
   - [HomieBot](https://github.com/davinchi73/comp480-Final_Project)
