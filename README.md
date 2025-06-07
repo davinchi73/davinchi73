@@ -8,7 +8,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Artifical Intelligence</b>
-  - [HomieBot](https://github.com/davinchi73/comp480-Final_Project)
+  - [HomieBot, OLlama](https://github.com/davinchi73/comp480-Final_Project)
 - <b>Full Stack Web App</b>
   - [ProDawgTivity](https://github.com/Brady3035/Comp-225)
 - <b>Data Structures and Algorithms</b>
