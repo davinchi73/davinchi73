@@ -1,5 +1,13 @@
 <h1>Hi, I'm Devinn! <br/><a href="https://github.com/davinchi73">Programmer</a>, <a href="https://www.linkedin.com/in/devinn-chi">Undergraduate CS Research assistant / Computer Science Preceptor</a></h1>
 
+<h2> 💪Human-Computer Interaction/3D Modeling projects:</h2>
+
+- <b>Macalester College</b>
+  - [Button-Operated Servo Phone Stand]
+ (https://github.com/JMura18/Phone-Stand-Template)
+  - [Swiveling Watergun Stand]
+(https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel)
+
 <h2>👨‍💻 Research Projects:</h2>
 
 - <b>NSF-REU @ UMN</b>
